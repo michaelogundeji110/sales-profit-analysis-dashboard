@@ -1,6 +1,6 @@
 # sales-profit-analysis-dashboard
 Tableau dashboard analyzing product sales, profit performance, and regional trends.
-# Sales & Profit Performance Dashboard (Power BI)
+# Sales & Profit Performance Dashboard (Tableau)
 
 ## Project Overview
 
@@ -12,7 +12,7 @@ The dashboard enables business stakeholders to monitor profitability, understand
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.jpeg)
 
 ---
 
